@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by Cvpcb (2014-jan-25)-product   date = mié 09 jul 2014 12:09:27 ART
+
+BeginCmp
+TimeStamp = /53BD5A69;
+Reference = U1;
+ValeurCmp = P89LPC832A1FA;
+IdModule  = Sockets:PLCC28;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BD5B0F;
+Reference = U2;
+ValeurCmp = P89LPC832A1FA;
+IdModule  = Sockets:PLCC28;
+EndCmp
+
+EndListe
